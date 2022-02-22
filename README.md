@@ -3,6 +3,7 @@
 Python extension for ZPH01 sensor
 
 # Usage
+`pip install zph01`
 
 ```python
 
